@@ -29,7 +29,7 @@
 
 ## 🧠 About the Project
 
-**Digital Deception Detection** is an AI-powered image forensics application that investigates whether a digital image is potentially deceptive.
+**Digital Deception Detection For Images** is an AI-powered image forensics application that investigates whether a digital image is potentially deceptive.
 
 The system focuses on **two different forms of digital deception**:
 
