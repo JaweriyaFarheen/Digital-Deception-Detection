@@ -23,11 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-Large%20Files-222222?style=for-the-badge&logo=git&logoColor=white)
 
-<br><br>
 
-**MSc Artificial Intelligence Project**
-
-</div>
 
 ---
 
