@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Digital Deception Detection
+# 🔍 Digital Deception Detection For Images
 
 ### AI-Powered Image Forensics for Tampered & AI-Generated Images
 
